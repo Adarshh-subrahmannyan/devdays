@@ -101,7 +101,5 @@
 }
 
 @layer utilities {
-  .care-inventory-container {
-    @tailwind utilities;
-  }
+  @tailwind utilities;
 }
